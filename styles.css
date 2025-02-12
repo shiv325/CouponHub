@@ -110,6 +110,7 @@ background: #f7f7f7;
 border-radius: 8px;
 padding: 20px;
 text-align: center;
+border: 2px solid #012246;
 }
 
 .coupon-card img {
